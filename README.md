@@ -18,3 +18,4 @@ If you have not already, insert your bluetooth dongle into a USB port on the pi.
 At the terminal you can use hcitool to check your device, e.g. type
 
 hcitool dev
+
